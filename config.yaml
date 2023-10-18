@@ -417,48 +417,55 @@ languages:
     languageName: English
     menu:
       main:
-        - identifier: posts
-          name: Posts
-          post: ''
-          pre: ''
-          title: ''
-          url: /posts/
-          weight: 1
-        - identifier: tags
-          name: Tags
-          post: ''
-          pre: ''
-          title: ''
-          url: /tags/
-          weight: 2
-        - identifier: categories
-          name: Categories
-          post: ''
-          pre: ''
-          title: ''
-          url: /categories/
-          weight: 3
-        - identifier: documentation
-          name: Docs
-          post: ''
-          pre: ''
-          title: ''
-          url: /categories/documentation/
-          weight: 4
         - identifier: about
           name: About
           post: ''
           pre: ''
           title: ''
           url: /about/
-          weight: 5
-        - identifier: github
-          name: ''
+          weight: 1
+        - identifier: publications
+          name: Publications
           post: ''
-          pre: <i class='fab fa-github fa-fw' aria-hidden='true'></i>
-          title: GitHub
-          url: https://github.com/dillonzq/LoveIt
-          weight: 6
+          pre: ''
+          title: ''
+          url: /publications/
+          weight: 2
+        - identifier: posts
+          name: Posts
+          post: ''
+          pre: ''
+          title: ''
+          url: /posts/
+          weight: 3
+        - identifier: tags
+          name: Tags
+          post: ''
+          pre: ''
+          title: ''
+          url: /tags/
+          weight: 4
+        - identifier: categories
+          name: Categories
+          post: ''
+          pre: ''
+          title: ''
+          url: /categories/
+          weight: 5
+       # - identifier: documentation
+      #    name: Docs
+       #   post: ''
+        #  pre: ''
+        #  title: ''
+        #  url: /categories/documentation/
+        #  weight: 5
+        #- identifier: github
+        #  name: ''
+        #  post: ''
+        #  pre: <i class='fab fa-github fa-fw' aria-hidden='true'></i>
+        #  title: GitHub
+        #  url: https://github.com/dillonzq/LoveIt
+        #  weight: 6
     params:
       home:
         profile:
@@ -489,6 +496,7 @@ languages:
         #Facebook: xxxx
         GitHub: AlexLewanski
         Googlescholar: 'https://scholar.google.com/citations?user=5K9veZYAAAAJ&hl=en'
+        ORCID: 'https://orcid.org/0000-0001-5843-0837'
         #Instagram: xxxx
         #Mastodon:
         #  id: '@xxxx'
@@ -507,47 +515,55 @@ languages:
     languageName: 简体中文
     menu:
       main:
-        - identifier: posts
-          name: 所有文章
-          post: ''
-          pre: ''
-          title: ''
-          url: /posts/
-          weight: 1
-        - identifier: tags
-          name: 标签
-          post: ''
-          pre: ''
-          title: ''
-          url: /tags/
-          weight: 2
-        - identifier: categories
-          name: 分类
-          post: ''
-          pre: ''
-          title: ''
-          url: /categories/
-          weight: 3
-        - identifier: documentation
-          name: 文档
-          pre: ''
-          title: ''
-          url: /categories/documentation/
-          weight: 4
         - identifier: about
           name: 关于
           post: ''
           pre: ''
           title: ''
           url: /about/
-          weight: 5
-        - identifier: github
-          name: ''
+          weight: 1
+        - identifier: publications
+          name: 关于
           post: ''
-          pre: <i class='fab fa-github fa-fw' aria-hidden='true'></i>
-          title: GitHub
-          url: https://github.com/dillonzq/LoveIt
+          pre: ''
+          title: ''
+          url: /publications/
+          weight: 2
+        - identifier: posts
+          name: 所有文章
+          post: ''
+          pre: ''
+          title: ''
+          url: /posts/
+          weight: 3
+        - identifier: tags
+          name: 标签
+          post: ''
+          pre: ''
+          title: ''
+          url: /tags/
+          weight: 4
+        - identifier: categories
+          name: 分类
+          post: ''
+          pre: ''
+          title: ''
+          url: /categories/
+          weight: 5
+        - identifier: documentation
+          name: 文档
+          pre: ''
+          title: ''
+          url: /categories/documentation/
           weight: 6
+
+       # - identifier: github
+      #    name: ''
+      #    post: ''
+      #    pre: <i class='fab fa-github fa-fw' aria-hidden='true'></i>
+      #    title: GitHub
+      #    url: https://github.com/dillonzq/LoveIt
+      #    weight: 6
     params:
       home:
         profile:
