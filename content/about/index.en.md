@@ -9,10 +9,10 @@ math:
   enable: true
 title: About
 ---
+My name is Alex Lewanski. I am graduate student at Michigan State University.
 
 ![Hugo Theme LoveIt](/images/about_photo.jpg)
 
-My name is Alex Lewanski. I am graduate student at Michigan State University.
 
 <!---
 {{< style "img { height: 1.25rem; }" >}}
