@@ -101,7 +101,7 @@ params:
       enable: yes
       paginate: 6
     profile:
-      avatarURL: /images/avatar.png
+      avatarURL: /images/landing_page_photo.jpg #avatar.png
       disclaimer: ''
       enable: yes
       gravatarEmail: ''
