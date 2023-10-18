@@ -486,13 +486,13 @@ languages:
         type: algolia
       social:
         Email: xxxx@xxxx.com
-        Facebook: xxxx
+        #Facebook: xxxx
         GitHub: xxxx
         Instagram: xxxx
         Mastodon:
           id: '@xxxx'
           prefix: https://mastodon.technology/
-        Phone: 555-555-555
+        #Phone: 555-555-555
         RSS: yes
         Telegram: xxxx
         Twitter: xxxx
