@@ -7,9 +7,14 @@ images:
 lightgallery: true
 math:
   enable: true
-title: About LoveIt
+title: About
 ---
 
+![Hugo Theme LoveIt](/images/about_photo.jpg)
+
+My name is Alex Lewanski. I am graduate student at Michigan State University.
+
+<!---
 {{< style "img { height: 1.25rem; }" >}}
 [![GitHub release (latest by date)](https://img.shields.io/github/v/release/dillonzq/LoveIt?style=flat-square)](https://github.com/dillonzq/LoveIt/releases)
 [![Hugo](https://img.shields.io/badge/Hugo-%5E0.62.0-ff4088?style=flat-square&logo=hugo)](https://gohugo.io/)
@@ -121,3 +126,4 @@ Thanks to the authors of following resources included in the theme:
 * [Gitalk](https://github.com/gitalk/gitalk)
 * [Valine](https://valine.js.org/)
 * [cookieconsent](https://github.com/osano/cookieconsent)
+-->
