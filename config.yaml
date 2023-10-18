@@ -467,9 +467,9 @@ languages:
           enable: yes
           gravatarEmail: ''
           social: yes
-          subtitle: A Clean, Elegant but Advanced Hugo Theme
+          subtitle: population genetics | conservation biology | data science
           title: ''
-          typeit: yes
+          typeit: no
         rss: 10
       search:
         absoluteURL: no
