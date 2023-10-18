@@ -94,7 +94,7 @@ params:
       logo: ''
       name: Alex Lewanski
       post: ''
-      pre: <i class='far fa-kiss-wink-heart fa-fw' aria-hidden='true'></i>
+      pre: '' #<i class='far fa-kiss-wink-heart fa-fw' aria-hidden='true'></i>
       typeit: no
   home:
     posts:
