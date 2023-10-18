@@ -485,18 +485,19 @@ languages:
         snippetLength: 30
         type: algolia
       social:
-        Email: xxxx@xxxx.com
+        Email: lewanski@msu.edu
         #Facebook: xxxx
-        GitHub: xxxx
-        Instagram: xxxx
-        Mastodon:
-          id: '@xxxx'
-          prefix: https://mastodon.technology/
+        GitHub: https://github.com/AlexLewanski
+        Googlescholar: 'https://scholar.google.com/citations?user=5K9veZYAAAAJ&hl=en'
+        #Instagram: xxxx
+        #Mastodon:
+        #  id: '@xxxx'
+        #  prefix: https://mastodon.technology/
         #Phone: 555-555-555
-        RSS: yes
-        Telegram: xxxx
-        Twitter: xxxx
-        Youtubelegacy: xxxx
+        #RSS: yes
+        #Telegram: xxxx
+        Twitter: https://twitter.com/home
+        #Youtubelegacy: xxxx
     weight: 1
   zh-cn:
     copyright: This work is licensed under a Creative Commons Attribution-NonCommercial
