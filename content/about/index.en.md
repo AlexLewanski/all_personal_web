@@ -10,8 +10,7 @@ math:
 title: About
 ---
 
-<!---![Hugo Theme LoveIt](/images/Apple-Devices-Preview.png "Hugo Theme LoveIt")--->
-<img src="/images/about_photo.jpg" alt="iowa" title="Iowa" width="150" height="100" />
+[Hugo Theme LoveIt](/images/avatar.png "Hugo Theme LoveIt")
 
 My name is Alex Lewanski. I am graduate student at Michigan State University.
 
