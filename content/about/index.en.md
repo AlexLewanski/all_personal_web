@@ -10,7 +10,7 @@ math:
 title: About
 ---
 
-[Hugo Theme LoveIt](/images/avatar.png "Hugo Theme LoveIt")
+![Hugo Theme LoveIt](/images/avatar.png "Hugo Theme LoveIt")
 
 My name is Alex Lewanski. I am graduate student at Michigan State University.
 
