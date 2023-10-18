@@ -213,7 +213,7 @@ params:
     seo:
       images: []
       publisher:
-        logoUrl: /images/avatar.png
+        logoUrl: /images/landing_page_photo.jpg #avatar.png
         name: xxxx
     share:
       Baidu: no
@@ -462,7 +462,7 @@ languages:
     params:
       home:
         profile:
-          avatarURL: /images/avatar.png
+          avatarURL: /images/landing_page_photo.jpg #avatar.png
           disclaimer: ''
           enable: yes
           gravatarEmail: ''
