@@ -92,7 +92,7 @@ params:
     mobileMode: auto
     title:
       logo: ''
-      name: LoveIt
+      name: Alex Lewanski
       post: ''
       pre: <i class='far fa-kiss-wink-heart fa-fw' aria-hidden='true'></i>
       typeit: no
@@ -106,9 +106,9 @@ params:
       enable: yes
       gravatarEmail: ''
       social: yes
-      subtitle: A Clean, Elegant but Advanced Hugo Theme
+      subtitle: population genetics | conservation biology | data science
       title: ''
-      typeit: yes
+      typeit: no
     rss: 10
   images: /logo.png
   list:
