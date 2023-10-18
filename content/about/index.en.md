@@ -11,10 +11,11 @@ title: About
 ---
 My name is Alex Lewanski. I am graduate student at Michigan State University.
 
-![Hugo Theme LoveIt](/images/about_photo.jpg)
+![Hugo Theme LoveIt](/images/Apple-Devices-Preview.png "Hugo Theme LoveIt")
 
 
 <!---
+![Hugo Theme LoveIt](/images/about_photo.jpg)
 {{< style "img { height: 1.25rem; }" >}}
 [![GitHub release (latest by date)](https://img.shields.io/github/v/release/dillonzq/LoveIt?style=flat-square)](https://github.com/dillonzq/LoveIt/releases)
 [![Hugo](https://img.shields.io/badge/Hugo-%5E0.62.0-ff4088?style=flat-square&logo=hugo)](https://gohugo.io/)
@@ -27,7 +28,6 @@ My name is Alex Lewanski. I am graduate student at Michigan State University.
 >
 > It is based on the original [LeaveIt Theme](https://github.com/liuzc/LeaveIt) and [KeepIt Theme](https://github.com/Fastbyte01/KeepIt).
 
-![Hugo Theme LoveIt](/images/Apple-Devices-Preview.png "Hugo Theme LoveIt")
 
 ## Features
 
