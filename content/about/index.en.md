@@ -11,7 +11,7 @@ title: About
 ---
 
 <!---![Hugo Theme LoveIt](/images/Apple-Devices-Preview.png "Hugo Theme LoveIt")--->
-<img src="/images/about_photo.jpg" alt="iowa" title="owa" height="100" />
+<img src="/images/about_photo.jpg" alt="iowa" title="Iowa" width="150" height="100" />
 
 My name is Alex Lewanski. I am graduate student at Michigan State University.
 
