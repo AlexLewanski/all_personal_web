@@ -9,7 +9,7 @@ math:
 title: CV
 ---
 
-{{< embed-pdf url="/content/cv/Lewanski_CV_updated.pdf" >}}
+{{< embed-pdf url="./Lewanski_CV_updated.pdf" >}}
 
 
 <!---
