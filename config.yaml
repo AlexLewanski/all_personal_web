@@ -417,20 +417,20 @@ languages:
     languageName: English
     menu:
       main:
+        #- identifier: about #theme_documentation_basics
+        #  name: About
+        #  post: ''
+        #  pre: ''
+        #  title: ''
+         # url: /about/
+          #weight: 1
         - identifier: about
           name: About
           post: ''
           pre: ''
           title: ''
-          url: /about/
+          url: "/posts/about/"
           weight: 1
-        #- identifier: about
-        #  name: About
-        #  post: ''
-        #  pre: ''
-        #  title: ''
-        #  url: "/posts/theme_documentation_basics/"
-         # weight: 1
         - identifier: publications
           name: Publications
           post: ''
