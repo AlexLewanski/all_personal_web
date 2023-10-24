@@ -14,7 +14,7 @@ tags: ['frontpage']
 title: Research
 toc:
   enable: true
-weight: 1
+weight: 2
 ---
 
 I have a diverse set of interests in ecology and evolution. Currently, I am particularly interested in applying to genealogical information to make inferences in population and inform conservation practices.
