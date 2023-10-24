@@ -18,4 +18,4 @@ My name is Alex Lewanski, and I am interested in applying genomic and demographi
 
 Work in progress ...
 
-## My CV can be found [here]("Lewanski_CV_updated.pdf").
+## My CV can be found [here]("/content/posts/about/Lewanski_CV_updated.pdf").
