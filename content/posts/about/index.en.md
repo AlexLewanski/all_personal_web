@@ -9,7 +9,8 @@ resources:
   src: about_photo.png
 math:
   enable: true
-tags: []
+tags: 
+- frontpage
 title: About
 toc:
   enable: false

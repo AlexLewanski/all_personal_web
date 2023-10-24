@@ -433,13 +433,20 @@ languages:
         #  title: ''
         #  url: "/posts/about/"
         #  weight: 1
+        - identifier: research
+          name: Research
+          post: ''
+          pre: ''
+          title: ''
+          url: /research/
+          weight: 2
         - identifier: publications
           name: Publications
           post: ''
           pre: ''
           title: ''
           url: /publications/
-          weight: 2
+          weight: 3
         #- identifier: cv
         #  name: CV
         #  post: ''
@@ -453,21 +460,21 @@ languages:
           pre: ''
           title: ''
           url: /posts/
-          weight: 3
+          weight: 4
         - identifier: tags
           name: Tags
           post: ''
           pre: ''
           title: ''
           url: /tags/
-          weight: 4
+          weight: 5
         - identifier: categories
           name: Categories
           post: ''
           pre: ''
           title: ''
           url: /categories/
-          weight: 5
+          weight: 6
        # - identifier: documentation
       #    name: Docs
        #   post: ''
