@@ -9,8 +9,7 @@ resources:
   src: about_photo.png
 math:
   enable: true
-tags:
-- frontpage
+tags: ['frontpage']
 title: Research
 toc:
   enable: true
