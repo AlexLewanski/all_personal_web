@@ -429,7 +429,7 @@ languages:
           post: ''
           pre: ''
           title: ''
-          url: "/posts/theme-documentation-basics/"
+          url: "/posts/theme_documentation_basics/"
           weight: 1
         - identifier: publications
           name: Publications
