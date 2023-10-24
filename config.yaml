@@ -98,8 +98,8 @@ params:
       typeit: no
   home:
     posts:
-      enable: no
-      paginate: 6
+      enable: yes
+      paginate: 2
     profile:
       avatarURL: /images/landing_page_photo.jpg #avatar.png
       disclaimer: ''
