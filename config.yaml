@@ -1,6 +1,8 @@
 baseURL: https://allewy.netlify.app
-theme: LoveIt
+theme: ["hugo-embed-pdf-shortcode", "LoveIt"]
+#theme: LoveIt
 title: Alex Lewanski
+enableInlineShortcodes: true
 defaultContentLanguage: en
 languageCode: en
 languageName: English
