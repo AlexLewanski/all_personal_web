@@ -11,8 +11,6 @@ math:
   enable: true
 tags: []
 title: About
-toc:
-  auto: false
 weight: 1
 ---
 
