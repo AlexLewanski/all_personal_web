@@ -4,8 +4,12 @@ description: About
 draft: false
 images: []
 lightgallery: true
+resources:
+- name: featured-image
+  src: about_photo.png
 math:
   enable: true
+tags: []
 title: About
 toc:
   auto: false
