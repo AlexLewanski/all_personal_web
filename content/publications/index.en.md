@@ -22,7 +22,7 @@ AL Lewanski, MC Grundler, GS Bradburd. The era of the ARG: an empiricist's guide
 # PUBLISHED
 
 ### 2023
-JA Rick, CD Brock, **AL Lewanski**, J Golcher-Benavides, CE Wagner. Reference genome choice and filtering thresholds jointly influence phylogenomic analyses *Systematic Biology*. doi: https://doi.org/10.1093/sysbio/syad065; also available as a [preprint](https://doi.org/10.1101/2022.03.10.483737)
+JA Rick, CD Brock, **AL Lewanski**, J Golcher-Benavides, CE Wagner. Reference genome choice and filtering thresholds jointly influence phylogenomic analyses *Systematic Biology*. doi: [https://doi.org/10.1093/sysbio/syad065](https://doi.org/10.1093/sysbio/syad065); also available as a [preprint](https://doi.org/10.1101/2022.03.10.483737)
 <br>
 <br>
 ### 2022
